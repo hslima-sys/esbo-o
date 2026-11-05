@@ -1,0 +1,36 @@
+Eu preciso que você crie uma imagem informativo para vagas de seleção interna, vamos usar esse modelo de imagem que estou enviando, no entanto reforço que vamos ter que mudar várias informações:
+
+
+
+"Vaga no Centro de Distribuição" você muda para "Seleção Interna"
+Setor onde está "Auxiliar de Expedição" muda para " Controle de Expedição (Auxiliar de Supervisão)"
+Abaixo de setor tu adiciona o local "Centro de distribuição de Feira de Santana"
+Onde tem "Benefícios" tu vai mudar pra "Requisitos" ai tu vai tirar aquela lista toda de Benefícios que tem e vai colocar os seguintes Requisitos:
+Proatividade
+Assiduidade
+Gestão Interpessoal
+Conhecimento em Informática
+Conhecimento Geral das Atividades do CD
+Ensino Médio Completo
+Ter pelo menos 3 meses de empresa
+Ter Disponibilidade para mudar de turno caso necessário
+
+
+
+
+Naquele outro canto mais a esquerda onde tem os turno os horários e os dias da semana tu vai tirar os dias da semana e os horários deixa só o nome dos turnos ai cê vai colocar a seguinte informação em seu respectivo turno:
+
+
+
+
+Uma vaga turno A
+
+Uma vaga turno B
+
+Duas vagas turno C
+
+
+
+
+
+Ai tu já aproveita e coloca a minha foto no lugar da foto desse cara, mas coloca no layout que ele tá preservando as minhas feições 
